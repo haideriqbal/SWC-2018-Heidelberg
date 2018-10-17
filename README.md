@@ -3,4 +3,4 @@ SWC course test project
 # WOHOOO
 
 
-add changed on shared project
+appended stuff to the  changed on shared project
